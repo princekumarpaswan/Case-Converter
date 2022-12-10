@@ -2,7 +2,7 @@
 
 By Prince Kr Paswan
 
-## [Case Converter](https://game-prince.netlify.app/)
+## [Case Converter](https://case-converter-p.netlify.app/)
 
 
 ![Completed Website](./c1.png)
